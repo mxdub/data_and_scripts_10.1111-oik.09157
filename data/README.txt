@@ -46,9 +46,10 @@ Additional data:
 
 Results files:
 
-	model_probit_Xb.RDS : compressed raw outputs (3 files) from Hmsc.		
+	model_probit_Xb.RDS : compressed raw outputs (3 files) from Hmsc.	
 
 		Scripts using these data: Guadeloupe-Snails---second-part--HMSC-.html, R2_hmsc.R
+		(available on demand to corresponding authors - these three files are too large - 1.5Go each, to be stocked on GitHub)
 
 
 	gwada_occ_Xb.RDS : compressed data used for HMSC (training & validation)
